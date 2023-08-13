@@ -1,5 +1,4 @@
-node_modules
-src
-!templates
-pnpm-lock.yaml
-tsconfig.json
+/node_modules
+/src
+/pnpm-lock.yaml
+/tsconfig.json
