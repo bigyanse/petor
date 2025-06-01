@@ -18,6 +18,7 @@
   ],
   "dependencies": {
     "chalk": "4.1.2",
+    "toml": "^3.0.0",
     "yargs": "^17.6.0"
   },
   "devDependencies": {
